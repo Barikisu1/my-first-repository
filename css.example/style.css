@@ -1,0 +1,11 @@
+#centered-text {
+    text-align: center;
+    font-size:2in;
+    color: forestgreen;
+}
+
+.styledfont {
+    font-family: cursive;
+    font-size: larger;
+    color: red;
+}
