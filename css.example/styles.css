@@ -1,0 +1,43 @@
+body {
+    background-color:#efeee7;
+    head
+    ,different font {
+        font-family: Georgia, 'Times New Roman', Times, serif
+        font-color; #333333
+        
+}
+
+body {
+    margin: 0; 
+    padding: 0;
+}
+header {
+    background-color: #333333;
+}
+h1 {
+    font: #eee;
+    font-size: 28px;
+}
+h2 {
+    font-size: 24px;
+    width: 1024px;
+    margin: 0%;
+}
+section{
+    float: left;
+}
+img {
+    float: left;
+}
+img {
+    width: 100%;
+}
+section {
+    width: 70%;
+}
+section{
+    width: 30%;
+}
+:link {
+    color: #d21034;
+}
