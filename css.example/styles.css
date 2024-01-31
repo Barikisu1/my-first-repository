@@ -3,19 +3,19 @@ body {
     head
     ,different font {
         font-family: Georgia, 'Times New Roman', Times, serif
-        font-color; #333333
+        font #333333;
         
 }
 
 body {
-    margin: 0; 
-    padding: 0;
+    margin: 0%; 
+    padding: 0%;
 }
 header {
     background-color: #333333;
 }
 h1 {
-    font: #eee;
+    font: #eeeeee;
     font-size: 28px;
 }
 h2 {
